@@ -1,0 +1,11 @@
+.alarm-message-container{
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkorange;
+}
+
+.alarm-message-text{
+    display: flex;
+}
